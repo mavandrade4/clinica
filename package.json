@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mavandrade4.github.io/clinica",
+  "homepage": "https://mavandrade4.github.io/clinica/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
